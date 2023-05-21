@@ -1,4 +1,4 @@
-DIO - Trilha .NET - Explorando a linguagem C#
+*DIO - Trilha .NET - Explorando a linguagem C#*
 
 Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de explorando a linguagem C#, da trilha .NET da DIO.
